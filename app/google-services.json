@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "616634787337",
+    "firebase_url": "https://account-1ecfd-default-rtdb.firebaseio.com",
+    "project_id": "account-1ecfd",
+    "storage_bucket": "account-1ecfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616634787337:android:bc392ee06f4019e2b73ad8",
+        "android_client_info": {
+          "package_name": "com.atharvakale.facerecognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-CxOxpFOHMvwehJYtVpQAlLrp3KLoZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
